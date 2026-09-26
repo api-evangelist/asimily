@@ -1,0 +1,250 @@
+# Asimily
+
+> Next-Generation Cyber Asset and Exposure Management Platform for IoT, OT, IT, and IoMT
+
+## Company Overview
+
+Asimily provides a comprehensive cybersecurity platform designed specifically for protecting connected devices across IoT (Internet of Things), OT (Operational Technology), IT, and IoMT (Internet of Medical Things) environments. Founded in 2017 by Shankar Somasundaram after his experience leading IoT security at Symantec where he secured over a billion IoT devices, Asimily addresses the unique security challenges of connected devices and mission-critical systems that traditional IT security solutions fail to adequately protect.
+
+The platform recognizes that every connected device represents a potential attack vector, and that IoT, OT, and IoMT devices have unique constraints that require specialized security approaches—they cannot be secured using traditional IT security methods alone.
+
+**Key Recognition:**
+- #1 in Gartner Connected Device Security Peer Reviews
+- 11th Fastest-Growing Cybersecurity Company in North America (2024 Deloitte Technology Fast 500™)
+- Multiple industry awards including CRN Tech Innovators Award, IoT Security Solution of the Year, Industrial IoT Product of the Year
+
+## Platform Capabilities
+
+### Core Features
+
+1. **Risk Mitigation**
+   - Targeted Attack Prevention (180+ attack types)
+   - Device Patching and IoT patching with one-click deployment
+   - Network Segmentation and Microsegmentation
+   - Multiple risk reduction tactics tailored to device context
+
+2. **Inventory and Visibility**
+   - Automated, accurate inventory of IT, IoT, OT, and IoMT devices
+   - Safe data collection using passive, protocol-based, API-based methods
+   - Complete device detail enrichment
+   - Discovery of "unmanaged" devices
+
+3. **Vulnerability Prioritization**
+   - AI/ML-powered analysis identifying the riskiest 2% of vulnerable devices
+   - MITRE ATT&CK-based vulnerability analysis
+   - IoT Risk Simulator for modeling risk ROI before taking action
+   - Continuous vulnerability detection
+
+4. **Threat Detection and Response**
+   - Anomaly detection and behavior monitoring
+   - Policy enforcement with alerts and automated actions
+   - Packet capture for incident response
+   - Integration with existing security infrastructure
+
+5. **Governance, Risk, and Compliance**
+   - Configuration Control with device snapshots
+   - Configuration drift detection
+   - Device hardening guidance
+   - Pre-purchase risk modeling
+   - Support for HIPAA, FDA, CMMC, NERC CIP, PCI-DSS, NIS2, DORA, Zero Trust frameworks
+
+6. **Operational Efficiency**
+   - Automated workflows
+   - Password management for IoT devices
+   - Medical device utilization tracking (for healthcare)
+   - FDA recalls and security advisories monitoring
+
+## Industries Served
+
+- **Manufacturing** - Securing automation systems, production lines, and industrial IoT devices
+- **Energy and Utilities** - Critical infrastructure protection for power grids, substations, and utility systems
+- **Transportation and Logistics** - Fleet management, logistics systems, and connected vehicle security
+- **Government** - Critical infrastructure protection and compliance across civilian and defense sectors
+- **Financial Services** - Securing connected devices, ATMs, and operational technology
+- **Retail** - Point-of-sale systems, inventory management, and building automation
+- **Healthcare** - Medical device security and IoMT protection for patient safety
+- **Higher Education** - Campus devices, research infrastructure, and building systems
+- **Life Sciences** - Research equipment and laboratory device protection
+- **Hospitality** - Guest services, building management, and connected property systems
+
+## Key Solutions
+
+### Connected Device Visibility
+- **Automated IoT visibility and deep categorization** - Complete inventory across IoT, OT, and IT environments
+- **IoT device detail enrichment** - Comprehensive device profiling and behavioral analysis
+
+### Vulnerability Detection and Mitigation
+- **Continuous IoT/OT vulnerability detection** - Real-time identification across all connected devices
+- **Risk-based vulnerability prioritization** - Focus on the riskiest 2% of devices for maximum impact
+- **Device prioritization by risk** - Context-aware risk scoring using MITRE ATT&CK framework
+- **Efficient mitigation workflows** - Multiple tactics including segmentation, attack prevention, and patching
+- **Network segmentation and microsegmentation** - Zero Trust implementation for IoT/OT networks
+
+### IoT and OT Security
+- **IoT Risk Simulator** - Model risk ROI before taking action to optimize security investments
+- **IoT Patching** - Automated firmware updates and password management for IoT devices
+- **Configuration Control** - Device snapshots, drift detection, and hardening guidance
+- **Incident response readiness with packet capture** - Deep visibility for security investigations
+- **Targeted Attack Prevention** - Block 180+ attack types tailored to device behavior
+
+### Industry-Specific Solutions
+- **IoMT (Medical Device) Security** - FDA recalls, security advisories, and pre-purchase risk avoidance
+- **OT Security** - Protection for industrial control systems and SCADA environments
+- **IT Device Security** - Extended visibility and control for traditional IT assets
+
+## Use Cases
+
+### Manufacturing & Industrial
+- Securing industrial control systems (ICS) and SCADA environments
+- Protecting production line automation and robotics
+- Managing security for building management systems (BMS)
+- Inventory tracking and supply chain device security
+
+### Energy & Utilities
+- Power grid and substation device security
+- Smart meter vulnerability management
+- NERC CIP compliance for critical infrastructure
+- OT network segmentation for generation and distribution systems
+
+### Transportation & Logistics
+- Fleet management system security
+- Connected vehicle vulnerability assessment
+- Warehouse automation and robotics protection
+- GPS and tracking device management
+
+### Retail & Hospitality
+- Point-of-sale (POS) system security
+- Building automation and HVAC control
+- Digital signage and kiosk management
+- Guest services and smart room technology
+
+### Enterprise & Campus
+- Smart building and facility management
+- Access control and surveillance systems
+- Environmental monitoring and sensors
+- Printer and office equipment security
+
+## Compliance and Standards
+
+Asimily supports compliance with major frameworks across industries:
+
+**Critical Infrastructure & OT:**
+- **NERC CIP** (North American Electric Reliability Corporation Critical Infrastructure Protection) - Energy sector
+- **NIS2 Directive** - European critical infrastructure cybersecurity
+- **DORA** (Digital Operational Resilience Act) - Financial services operational resilience
+
+**Defense & Government:**
+- **CMMC** (Cybersecurity Maturity Model Certification) - Defense industrial base
+- **Cyberscope** - Federal government cybersecurity reporting
+- **Zero Trust Security Framework** - Modern perimeter-less security architecture
+
+**Industry Standards:**
+- **PCI-DSS** (Payment Card Industry Data Security Standard) - Payment processing security
+- **MITRE ATT&CK Framework** - Threat-informed defense methodology
+
+**Healthcare:**
+- **HIPAA** (Health Insurance Portability and Accountability Act) - Patient data protection
+- **FDA regulations** - Medical device security and safety
+
+## Customer Impact
+
+**Typical Results:**
+- Customers remove 10,000+ high-risk vulnerabilities in first 3 months
+- Achieve compliance rates of 98% vs industry averages of 71%
+- Time savings equivalent to at least one full-time employee
+- Enterprise-wide visibility across thousands of IoT/OT devices without manual tracking
+- Rapid risk reduction through multiple mitigation tactics
+
+**Customer Testimonials:**
+- **MemorialCare (Healthcare)**: "98% NIST compliance while the average of 60 similar organizations is 71%"
+- **Methodist Le Bonheur Healthcare**: "Single pane of glass for connected devices across six locations"
+- **Tufts Medicine**: "Not just a technology vendor but a true security partner"
+- **St. Lawrence Health**: "Visibility and insights we didn't have before, with time savings equivalent to at least one FTE"
+
+## Technology Approach
+
+Asimily differentiates itself through:
+
+1. **Patented AI/ML Analysis** - Deep vulnerability analysis beyond basic categorization, with MITRE ATT&CK-based risk assessment specific to each device's context
+
+2. **Multiple Mitigation Tactics** - Not just discovery, but actionable risk reduction through:
+   - Network segmentation and microsegmentation
+   - Targeted attack prevention (180+ attack types)
+   - Automated IoT patching and firmware updates
+   - Configuration control and hardening
+
+3. **Device Lifecycle Management** - Complete security from pre-purchase risk modeling through operational monitoring to decommissioning
+
+4. **Context-Aware Security** - Understanding unique constraints of IoT, OT, and IoMT devices including:
+   - Fragile devices that cannot tolerate active scanning
+   - Legacy systems without modern security features
+   - Mission-critical devices requiring zero downtime
+   - Devices with long service lifetimes and outdated firmware
+
+5. **Safe Data Collection** - Non-intrusive methods protecting device integrity:
+   - Passive network monitoring
+   - Protocol-based discovery
+   - API-based integration
+   - Hybrid approaches tailored to environment
+
+6. **Risk Simulator** - Unique capability to model risk ROI before taking action, allowing security teams to prioritize efforts with measurable impact
+
+## Important URLs
+
+### Main Pages
+- Homepage: https://asimily.com
+- Platform Overview: https://asimily.com/product/overview/
+- Request Demo: https://asimily.com/request-a-demo/
+- About Us: https://asimily.com/about-us/
+
+### Platform Features
+- Risk Mitigation: https://asimily.com/product/risk-mitigation/
+- Inventory and Visibility: https://asimily.com/product/inventory-visibility/
+- Vulnerability Prioritization: https://asimily.com/product/vulnerability-prioritization/
+- Threat and Response: https://asimily.com/product/threat-response/
+- Governance, Risk, and Compliance: https://asimily.com/product/governance-risk-compliance/
+- Configuration Control: https://asimily.com/product/configuration-control/
+- IoT Patching: https://asimily.com/product/iot-patching/
+- Risk Modeling: https://asimily.com/product/risk-modeling/
+- Integrations: https://asimily.com/product/integrations/
+
+### Resources
+- All Resources: https://asimily.com/resources/
+- Blog: https://asimily.com/blog/
+- FAQ: https://asimily.com/resources/faq/
+- Glossary: https://asimily.com/resources/glossary/
+
+### Company
+- Careers: https://asimily.com/about-us/careers/
+- Leadership: https://asimily.com/about-us/leadership/
+- Partners: https://asimily.com/about-us/partners/
+- Contact: https://asimily.com/contact-us/
+- Privacy Policy: https://asimily.com/privacy-policy/
+- Product Security: https://asimily.com/product-security/
+
+### Social Media
+- LinkedIn: https://www.linkedin.com/company/asimily/
+- Twitter: https://twitter.com/asimilysecurity
+
+## Company Philosophy
+
+Asimily operates on core principles that recognize the unique challenges of IoT/OT security:
+
+1. **Risk Reduction Over Vulnerability Lists** - You can't close every vulnerability, but you can systematically reduce real business risk across IT, IoT, OT, and IoMT devices
+
+2. **Context-Driven Security** - Actionable insight requires more than data—it demands understanding each device's role, environment, and constraints combined with advanced technology
+
+3. **Multiple Mitigation Strategies** - Organizations need diverse tactics and workflows tailored to specific devices and contexts to reduce risk quickly, not one-size-fits-all approaches
+
+4. **Complete Lifecycle Management** - Effective security spans from pre-purchase risk assessment through operational monitoring to decommissioning—at a fair price
+
+5. **Protection Without Disruption** - Security must work with the constraints of IoT/OT devices: legacy systems, mission-critical operations, and devices that cannot tolerate downtime or active scanning
+
+## Contact Information
+
+For inquiries or demo requests, visit https://asimily.com/contact-us/ or https://asimily.com/request-a-demo/
+
+---
+
+*Last updated: February 2026*
+*This information is based on publicly available content from asimily.com*

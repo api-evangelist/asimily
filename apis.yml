@@ -1,23 +1,72 @@
 aid: asimily
+
 name: Asimily
-description: 'Asimily is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: 'Asimily provides a proactive cyber asset defense platform that offers IoT device visibility, risk modeling, segmentation, and automated remediation. It serves industries such as healthcare, energy, financial services, and manufacturing, helping organizations continuously monitor, prioritize, and mitigate cyber risks across IT, OT, and IoT environments.'
+
 url: https://raw.githubusercontent.com/api-evangelist/asimily/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- IoT
+- Cybersecurity
+- AssetManagement
+- RiskModeling
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/asimily-llms.txt
+- type: Hosts
+  url: hosts/asimily-hosts.yml
+- type: Vendors
+  url: vendors/asimily-vendors.yml
+- type: StatusPage
+  url: https://status.asimily.com/
+- type: PrivacyPolicy
+  url: https://asimily.com/privacy-policy/
+- type: Newsroom
+  url: https://asimily.com/press/
+- type: Leadership
+  url: https://asimily.com/about-us/leadership/
+- type: Blog
+  url: https://asimily.com/blog/
+- type: DomainSecurity
+  url: security/asimily-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://asimily.com/
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: "API specification endpoints like https://api.asimily.com/openapi.json return DNS errors, providing no machine‑readable contract."
+  evidence:
+    - url: https://api.asimily.com/openapi.json
+      status: DNS_ERROR
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
